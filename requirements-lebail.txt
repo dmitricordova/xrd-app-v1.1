@@ -1,0 +1,3 @@
+# optional: Le Bail tab (tested with rietx 1.10.0)
+-r requirements.txt
+rietx>=1.10,<2

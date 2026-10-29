@@ -1,0 +1,4 @@
+# optional: Materials Project candidate search (tested with mp-api 0.47.0, pymatgen 2026.10.24)
+-r requirements.txt
+mp-api>=0.45
+pymatgen>=2024.1.1

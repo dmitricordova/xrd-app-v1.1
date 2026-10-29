@@ -1,0 +1,86 @@
+{
+ "source": "Materials Project (materialsproject.org), CC BY 4.0; conventional standard cells at symprec 0.1. Test fixtures only.",
+ "entries": [
+  {
+   "mpid": "mp-18937",
+   "formula": "V2O3",
+   "chemsys": "O-V",
+   "sg": "R-3c",
+   "system": "trigonal",
+   "e_hull": 0.008657174250000566,
+   "cif": "V2O3_mp-18937.cif"
+  },
+  {
+   "mpid": "mp-541404",
+   "formula": "VO2",
+   "chemsys": "O-V",
+   "sg": "C2/m",
+   "system": "monoclinic",
+   "e_hull": 0.0,
+   "cif": "VO2_mp-541404.cif"
+  },
+  {
+   "mpid": "mp-665",
+   "formula": "SnSe2",
+   "chemsys": "Se-Sn",
+   "sg": "P-3m1",
+   "system": "trigonal",
+   "e_hull": 0.0,
+   "cif": "SnSe2_mp-665.cif"
+  },
+  {
+   "mpid": "mp-694",
+   "formula": "VSe2",
+   "chemsys": "Se-V",
+   "sg": "P-3m1",
+   "system": "trigonal",
+   "e_hull": 0.0,
+   "cif": "VSe2_mp-694.cif"
+  },
+  {
+   "mpid": "mp-623511",
+   "formula": "Sn",
+   "chemsys": "Sn",
+   "sg": "I4/mmm",
+   "system": "tetragonal",
+   "e_hull": 0.061407004999999515,
+   "cif": "Sn_mp-623511.cif"
+  },
+  {
+   "mpid": "mp-149",
+   "formula": "Si",
+   "chemsys": "Si",
+   "sg": "Fd-3m",
+   "system": "cubic",
+   "e_hull": 0.0,
+   "cif": "Si_mp-149.cif"
+  },
+  {
+   "mpid": "mp-27",
+   "formula": "Si",
+   "chemsys": "Si",
+   "sg": "Fm-3m",
+   "system": "cubic",
+   "e_hull": 0.5316,
+   "cif": "Si_mp-27.cif"
+  },
+  {
+   "mpid": "mp-168",
+   "formula": "Si",
+   "chemsys": "Si",
+   "sg": "Ia-3",
+   "system": "cubic",
+   "e_hull": 0.16,
+   "cif": "Si_mp-168.cif"
+  },
+  {
+   "mpid": "mp-165",
+   "formula": "Si",
+   "chemsys": "Si",
+   "sg": "P6_3/mmc",
+   "system": "hexagonal",
+   "e_hull": 0.0136,
+   "cif": "Si_mp-165.cif"
+  }
+ ]
+}

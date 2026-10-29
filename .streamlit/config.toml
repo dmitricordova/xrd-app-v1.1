@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 50          # MB per file
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#2f6fdb"
